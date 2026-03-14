@@ -1,7 +1,7 @@
 # Tajalli Support
 # دعم تطبيق تجلّي
 
-English
+
 
 Thank you for using Tajali.
 
@@ -11,10 +11,10 @@ Email: info@tajalisa.com
 
 We will respond as soon as possible.
 
-Thank you for using Tajali.
 
 
-العربية
+
+
 
 شكرًا لاستخدامك تطبيق تجلّي.
 
@@ -23,4 +23,4 @@ Thank you for using Tajali.
 info@tajalisa.com
 
 وسنقوم بالرد في أقرب وقت ممكن.
-شكرا لك على استخدام تجلي
+
